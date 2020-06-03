@@ -1,0 +1,12 @@
+[submodule "gym-minigrid"]
+	path = gym-minigrid
+	url = git@github.com:Lemoners/gym-minigrid.git
+[submodule "tianshou"]
+	path = tianshou
+	url = git@github.com:Lemoners/tianshou.git
+[submodule "rl-starter-files"]
+	path = rl-starter-files
+	url = git@github.com:Lemoners/rl-starter-files.git
+[submodule "torch-ac"]
+	path = torch-ac
+	url = git@github.com:Lemoners/torch-ac.git

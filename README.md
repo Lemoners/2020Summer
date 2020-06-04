@@ -23,7 +23,7 @@
 ## Result
 
 - Benchmarking using RL in [gym-minigird](https://github.com/maximecb/gym-minigrid).
-    - ![image-20200605004026519](/home/lemon/Workspace/2020Semester/UGVR/Grid/pic/pic.png)
+    - ![image-20200605004026519](./pic/pic.png)
 - Algorithm: `PPO`
 - Comparison between `original`, `random`, `hand-code auto task generation`.
     - Training: all in `MiniGrid-Empty-8x8-v0`
@@ -34,7 +34,7 @@
         - Two scenarios are considered, `fixed-target` and `random-target`
 - Result:
     - During training
-    - ![img](/home/lemon/Workspace/2020Semester/UGVR/Grid/pic/img.png)
+    - ![img](./pic/img.png)
         - ` `: fixed target
         - `-a`: hand-code auto task generation
         - `-r`: random generation
